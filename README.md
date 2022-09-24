@@ -1,4 +1,4 @@
 - `rm -rf BXI`
 - `git clone https://github.com/ATP1110/BXI1.git`
-- `cd BXI`
-- `python bxi`
+- `cd BXI1`
+- `python bxai`
